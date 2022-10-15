@@ -45,16 +45,6 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>commandforward.bukkit</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>commandforward.bungee</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+        
     </dependencies>
 </project>
