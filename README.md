@@ -49,7 +49,7 @@ cmd is the start of the actual command `[]` means it's optional
 
 ##### Example Execute as Console:
 `/forward console ping`
-
+ 
 This will select a random player to forward the connection to the Bungee server, but it will be executed as Bungee
 console there.
 
